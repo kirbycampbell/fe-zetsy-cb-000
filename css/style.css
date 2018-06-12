@@ -26,9 +26,9 @@ body {
 
 /* Write all remaining styles here */
 
-.h1 {
+h1 {
 	display: block;
-	font-size: 2em;
+	font-size: 90px;
 	font-family: 'libre_baskervilleregular';
 	font-weight: bold;
 	font-style: normal;
