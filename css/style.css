@@ -2,8 +2,12 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-  font-family: 'Baskerville';
-  src: url('Baskerville.ttc') format('truetype')
+    font-family: 'libre_baskervilleregular';
+    src: url('libre-baskerville.regular-webfont.woff2') format('woff2'),
+         url('libre-baskerville.regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 /*////////// Global Styles //////////*/
 
@@ -23,5 +27,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	font-family: Baskerville;
+	font-family: 'libre_baskervilleregular', Arial, Sans-serif;
+	font-weight: normal;
+	font-style: normal;
 }
