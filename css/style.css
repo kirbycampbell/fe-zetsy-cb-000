@@ -58,6 +58,10 @@ h2 {
 	font-size: 35px;
 }
 
-a press {
-	color: red;
+p {
+	font-size: 12px;
+}
+
+#press {
+	border-color: red;
 }
