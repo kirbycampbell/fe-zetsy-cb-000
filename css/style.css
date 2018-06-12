@@ -31,5 +31,7 @@ h1 {
 img {
 	border: solid;
 	border-width: 6px;
+	border: solid;
+	border-width: 12px;
 	border-color: #9A7;
 }
