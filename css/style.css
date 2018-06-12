@@ -5,8 +5,6 @@
     font-family: 'libre_baskervilleregular';
     src: url('libre-baskerville.regular-webfont.woff2') format('woff2'),
          url('libre-baskerville.regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
 }
 /*////////// Global Styles //////////*/
