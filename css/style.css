@@ -62,9 +62,17 @@ p {
 	font-size: 1em;
 }
 
+#press {
+	margin-bottom: 20px;
+}
+
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111, 127, 122) solid;
 }
 
 footer {
