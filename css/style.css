@@ -57,3 +57,7 @@ img {
 h2 {
 	font-size: 35px;
 }
+
+.press a {
+	color: red;
+}
