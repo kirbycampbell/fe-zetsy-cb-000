@@ -31,4 +31,5 @@ h1 {
 img {
 	border: solid;
 	border-width: thick;
+	border-color: #EEE;
 }
