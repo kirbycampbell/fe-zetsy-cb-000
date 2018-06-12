@@ -35,7 +35,7 @@ a {
 
 a:-webkit-any-link {
 	color: webkit-link;
-	cursor:grabbing;
+	cursor:pointer;
 	text-decoration: underline;
 }
 
