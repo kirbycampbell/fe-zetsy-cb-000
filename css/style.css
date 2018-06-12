@@ -25,9 +25,9 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	display: block;
 	font-size: 75px;
-	color: #9AF;
-	/*font-family: 'libre_baskervilleregular';
-*/
+}
+
+img {
+	border: solid;
 }
