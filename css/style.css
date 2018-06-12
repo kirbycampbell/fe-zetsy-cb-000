@@ -63,7 +63,8 @@ p {
 }
 
 #press img {
-	color: red;
+	border: 5px #ccc solid;
+	padding: 1px;
 }
 
 footer {
