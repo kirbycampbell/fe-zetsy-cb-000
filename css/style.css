@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+h1 {
+	font-style: Baskerville.ttc;
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,7 +20,3 @@ body {
 }
 
 /* Write all remaining styles here */
-
-h1 {
-	font-size: 75px;
-}
