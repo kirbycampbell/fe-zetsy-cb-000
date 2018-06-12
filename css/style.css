@@ -27,7 +27,9 @@ body {
 /* Write all remaining styles here */
 
 h1 {
+	display: block;
+	font-size: 2em;
 	font-family: 'libre_baskervilleregular';
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 }
